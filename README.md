@@ -1,5 +1,4 @@
-# cse255:  region wealth level detection through booster based image processing
+# CSE255: Region Wealth Level Detection through Booster-Based Image Processing
+A final project for CSE255 using a booster, completed under the instruction of Professor Yoav Freund, the inventor of the AdaBoost algorithm.
 
-A final project of cse255 using booster completed under instruction of Professor Yoav Freund, the inventor of AdaBoost algorithm.
-
-The target is to predict the wealth level of regions from a large dataset of 8-channel satellite pictures. A booster based model with KD-trees as basic identifier unit is implemented. The model is adjusted with feature engineering on the input to select the most effective combination of pixels and extract various image patterns. 
+The objective was to predict the wealth level of regions using a large dataset of 8-channel satellite images. A booster-based model employing KD-trees as the primary identification unit was implemented. The model was refined through feature engineering, optimizing pixel selection to extract various image patterns effectively.
